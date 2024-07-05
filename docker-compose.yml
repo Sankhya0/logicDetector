@@ -1,0 +1,22 @@
+version: '2.3'
+
+services:
+  backend:
+    build: .
+    hostname: backend
+    container_name: backend
+    image: backend
+    ports:
+      - '5000:5000'
+    volumes:
+      - ./backend:/app
+    working_dir: /app
+  frontend:
+    hostname: frontend
+    container_name: frontend
+    image: 'bitnami/apache:latest'
+    ports:
+      - '8090:8080'
+      - '443:8443'
+    volumes:
+      - ./frontend:/app

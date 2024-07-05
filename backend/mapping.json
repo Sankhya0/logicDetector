@@ -1,0 +1,102 @@
+{
+    "sortArray" : [
+                    "SORT",
+                    "https://leetcode.com/problems/sort-an-array/"
+                ],
+    "fib" : [
+                "FIB",
+                "https://leetcode.com/problems/fibonacci-number"
+            ],
+    "isPalindrome" : [
+                        "PALIN",
+                        "https://leetcode.com/problems/palindrome-number"
+                    ],
+    "myPow" :   [
+                    "POW",
+                    "https://leetcode.com/problems/powx-n"
+                ],
+    "isAnagram" : [
+                    "ANAGRAM",
+                    "https://leetcode.com/problems/valid-anagram"
+                ], 
+    "strStr" : [
+                    "STR_SEARCH",
+                    "https://leetcode.com/problems/implement-strstr"
+                ],
+    "numIslands" : [
+                    "COUNT_ISLANDS",
+                    "https://leetcode.com/problems/number-of-islands"
+                ],
+    "numTrees" : [
+                    "CATALAN_NUM",
+                    "https://leetcode.com/problems/unique-binary-search-trees"
+                ],
+    "isUgly" :  [
+                    "UGLY_NUM",
+                    "https://leetcode.com/problems/ugly-number"
+                ],
+    "canFinish" : [
+                    "CYCLE_GRAPH",
+                    "https://leetcode.com/problems/course-schedule"
+                ],
+
+    "canJump" : [
+                    "JUMP_GAME",
+                    "https://leetcode.com/problems/jump-game"
+                ],
+    "coinChange":[
+                    "COIN_CHANGE",
+                    "https://leetcode.com/problems/coin-change"
+                ],
+    "countPrimes":  [
+                        "SIEVE",
+                        "https://leetcode.com/problems/count-primes"
+                    ],
+    "mySqrt":[  "SQRT",
+                "https://leetcode.com/problems/sqrtx"
+            ],
+    "reverse":  [
+                    "REVERSE_INTEGER",
+                    "https://leetcode.com/problems/reverse-integer"
+                ],
+    "inorderTraversal": [
+                            "INORDER_TRAVERSAL",
+                            "https://leetcode.com/problems/binary-tree-inorder-traversal"
+                        ],
+    "isValidBST":   [
+                        "VALID_BST",
+                        "https://leetcode.com/problems/validate-binary-search-tree"
+                    ],
+    "levelOrder":[
+                    "LEVELORDER_TRAVERSAL",
+                    "https://leetcode.com/problems/binary-tree-level-order-traversal"
+                ],
+    "maxDepth":[
+                    "HEIGHT_BT",
+                    "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+                ],
+    "maxPathSum":[
+                    "MAX_PATH_SUM_BT",
+                    "https://leetcode.com/problems/binary-tree-maximum-path-sum"
+                ],
+    "solveSudoku":  [
+                        "SUDOKU",
+                        "https://leetcode.com/problems/sudoku-solver"
+                    ],
+    "restoreIPAddresses":[
+                            "RESTORE_IP",
+                            "https://leetcode.com/problems/restore-ip-addresses"
+                        ],
+    "hasCycle": [
+        "CYCLE_LL",
+        "https://leetcode.com/problems/linked-list-cycle"
+    ],
+    "reverseList":  [
+                        "REVERSE_LL",
+                        "https://leetcode.com/problems/reverse-linked-list"
+                    ],
+    "rotate":[
+                "ROTATE_ARRAY",
+                "https://leetcode.com/problems/rotate-array"
+            ]
+}

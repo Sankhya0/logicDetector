@@ -1,0 +1,12 @@
+flask
+requests
+flask_cors
+tensorflow
+sklearn
+numpy
+pandas
+pebble
+cppyy
+radon
+lizard
+valgrind
